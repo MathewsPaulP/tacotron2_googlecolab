@@ -4,7 +4,10 @@ a proof of concept testing the effectiveness of transfer learning on training te
 trained models available on request. datasets available from libravox.
 
 some samples generated can be found in the results folder under samples. The descriptions are as follows:-
+
 *fresh start* - female speaker trained to 6500 iterations from scratch.
+
 *warm start* - female speaker trained to 6500 and 38000 iterations from the published tacotron2 model.
+
 *warm start male* - male speaker trained to 6500 and 18000 iterations from the published model.
 
