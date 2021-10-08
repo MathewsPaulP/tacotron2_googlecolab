@@ -1,0 +1,8 @@
+tensorflow==1.15.2
+inflect==0.2.5
+librosa==0.6.0
+Unidecode==1.0.22
+pillow
+scipy
+matplotlib
+numpy
