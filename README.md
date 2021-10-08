@@ -11,3 +11,4 @@ some samples generated can be found in the results folder under samples. The des
 
 *warm start male* - male speaker trained to 6500 and 18000 iterations from the published model.
 
+*4th, 5th* - source audio for the female speaker to compare against the audio produced by the models
